@@ -1,0 +1,6 @@
+# Ignore model weights and history checkpoints
+*.pth
+models/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
